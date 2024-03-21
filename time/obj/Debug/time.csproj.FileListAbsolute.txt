@@ -1,0 +1,7 @@
+D:\thdt\time\bin\Debug\time.exe.config
+D:\thdt\time\bin\Debug\time.exe
+D:\thdt\time\bin\Debug\time.pdb
+D:\thdt\time\obj\Debug\time.csproj.AssemblyReference.cache
+D:\thdt\time\obj\Debug\time.csproj.CoreCompileInputs.cache
+D:\thdt\time\obj\Debug\time.exe
+D:\thdt\time\obj\Debug\time.pdb
