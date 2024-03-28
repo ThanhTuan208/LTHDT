@@ -1,0 +1,7 @@
+D:\Tho\tuan\tuan\bin\Debug\tuan.exe.config
+D:\Tho\tuan\tuan\bin\Debug\tuan.exe
+D:\Tho\tuan\tuan\bin\Debug\tuan.pdb
+D:\Tho\tuan\tuan\obj\Debug\tuan.csproj.AssemblyReference.cache
+D:\Tho\tuan\tuan\obj\Debug\tuan.csproj.CoreCompileInputs.cache
+D:\Tho\tuan\tuan\obj\Debug\tuan.exe
+D:\Tho\tuan\tuan\obj\Debug\tuan.pdb
