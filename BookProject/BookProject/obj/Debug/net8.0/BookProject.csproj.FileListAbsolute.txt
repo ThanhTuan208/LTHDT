@@ -1,0 +1,14 @@
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\bin\Debug\net8.0\BookProject.exe
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\bin\Debug\net8.0\BookProject.deps.json
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\bin\Debug\net8.0\BookProject.runtimeconfig.json
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\bin\Debug\net8.0\BookProject.dll
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\bin\Debug\net8.0\BookProject.pdb
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\obj\Debug\net8.0\BookProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\obj\Debug\net8.0\BookProject.AssemblyInfoInputs.cache
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\obj\Debug\net8.0\BookProject.AssemblyInfo.cs
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\obj\Debug\net8.0\BookProject.csproj.CoreCompileInputs.cache
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\obj\Debug\net8.0\BookProject.dll
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\obj\Debug\net8.0\refint\BookProject.dll
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\obj\Debug\net8.0\BookProject.pdb
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\obj\Debug\net8.0\BookProject.genruntimeconfig.cache
+H:\CO VAN - LT HDT\Demo\BookProject\BookProject\obj\Debug\net8.0\ref\BookProject.dll

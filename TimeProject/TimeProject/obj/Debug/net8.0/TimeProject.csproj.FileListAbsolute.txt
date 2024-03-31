@@ -1,0 +1,14 @@
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\bin\Debug\net8.0\TimeProject.exe
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\bin\Debug\net8.0\TimeProject.deps.json
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\bin\Debug\net8.0\TimeProject.runtimeconfig.json
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\bin\Debug\net8.0\TimeProject.dll
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\bin\Debug\net8.0\TimeProject.pdb
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\obj\Debug\net8.0\TimeProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\obj\Debug\net8.0\TimeProject.AssemblyInfoInputs.cache
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\obj\Debug\net8.0\TimeProject.AssemblyInfo.cs
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\obj\Debug\net8.0\TimeProject.csproj.CoreCompileInputs.cache
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\obj\Debug\net8.0\TimeProject.dll
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\obj\Debug\net8.0\refint\TimeProject.dll
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\obj\Debug\net8.0\TimeProject.pdb
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\obj\Debug\net8.0\TimeProject.genruntimeconfig.cache
+H:\CO VAN - LT HDT\Demo\TimeProject\TimeProject\obj\Debug\net8.0\ref\TimeProject.dll
