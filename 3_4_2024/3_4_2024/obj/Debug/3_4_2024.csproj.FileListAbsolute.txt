@@ -1,0 +1,7 @@
+D:\3_4_2024\3_4_2024\bin\Debug\3_4_2024.exe.config
+D:\3_4_2024\3_4_2024\bin\Debug\3_4_2024.exe
+D:\3_4_2024\3_4_2024\bin\Debug\3_4_2024.pdb
+D:\3_4_2024\3_4_2024\obj\Debug\3_4_2024.csproj.AssemblyReference.cache
+D:\3_4_2024\3_4_2024\obj\Debug\3_4_2024.csproj.CoreCompileInputs.cache
+D:\3_4_2024\3_4_2024\obj\Debug\3_4_2024.exe
+D:\3_4_2024\3_4_2024\obj\Debug\3_4_2024.pdb
