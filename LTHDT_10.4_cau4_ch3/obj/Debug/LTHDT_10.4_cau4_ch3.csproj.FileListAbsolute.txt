@@ -1,0 +1,7 @@
+D:\LTHDT_10.4_cau4_ch3\bin\Debug\LTHDT_10.4_cau4_ch3.exe.config
+D:\LTHDT_10.4_cau4_ch3\bin\Debug\LTHDT_10.4_cau4_ch3.exe
+D:\LTHDT_10.4_cau4_ch3\bin\Debug\LTHDT_10.4_cau4_ch3.pdb
+D:\LTHDT_10.4_cau4_ch3\obj\Debug\LTHDT_10.4_cau4_ch3.csproj.AssemblyReference.cache
+D:\LTHDT_10.4_cau4_ch3\obj\Debug\LTHDT_10.4_cau4_ch3.csproj.CoreCompileInputs.cache
+D:\LTHDT_10.4_cau4_ch3\obj\Debug\LTHDT_10.4_cau4_ch3.exe
+D:\LTHDT_10.4_cau4_ch3\obj\Debug\LTHDT_10.4_cau4_ch3.pdb
