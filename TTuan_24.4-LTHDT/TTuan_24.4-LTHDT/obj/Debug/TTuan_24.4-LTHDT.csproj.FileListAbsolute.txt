@@ -1,0 +1,7 @@
+D:\TTuan_24.4-LTHDT\TTuan_24.4-LTHDT\bin\Debug\TTuan_24.4-LTHDT.exe.config
+D:\TTuan_24.4-LTHDT\TTuan_24.4-LTHDT\bin\Debug\TTuan_24.4-LTHDT.exe
+D:\TTuan_24.4-LTHDT\TTuan_24.4-LTHDT\bin\Debug\TTuan_24.4-LTHDT.pdb
+D:\TTuan_24.4-LTHDT\TTuan_24.4-LTHDT\obj\Debug\TTuan_24.4-LTHDT.csproj.AssemblyReference.cache
+D:\TTuan_24.4-LTHDT\TTuan_24.4-LTHDT\obj\Debug\TTuan_24.4-LTHDT.csproj.CoreCompileInputs.cache
+D:\TTuan_24.4-LTHDT\TTuan_24.4-LTHDT\obj\Debug\TTuan_24.4-LTHDT.exe
+D:\TTuan_24.4-LTHDT\TTuan_24.4-LTHDT\obj\Debug\TTuan_24.4-LTHDT.pdb
